@@ -1,0 +1,68 @@
+[
+    {
+        "_id": 1,
+        "name": "Rohit Sharma",
+        "email": "rohit@sharma.com",
+        "disease": "Chickenpox"
+    },
+    {
+        "_id": 2,
+        "name": "KL Rahul",
+        "email": "rahul@ma.com",
+        "disease": "Common cold"
+    },
+    {
+        "_id": 3,
+        "name": "Virat Kohli",
+        "email": "virat@ma.com",
+        "disease": "Diphtheria"
+    },
+    {
+        "_id": 4,
+        "name": "MS Dhoni",
+        "email": "dhoni@ma.com",
+        "disease": "Infectious"
+    },
+    {
+        "_id": 5,
+        "name": "Hardik Pandiya",
+        "email": "hardik@ma.com",
+        "disease": "E.coli"
+    },
+    {
+        "_id": 6,
+        "name": "Prithvi Show",
+        "email": "prithvi@ma.com",
+        "disease": "Giardiasis"
+    },
+    {
+        "_id": 7,
+        "name": "Yuash Dhull",
+        "email": "yuash@ma.com",
+        "disease": "HIV/AIDS"
+    },
+    {
+        "_id": 8,
+        "name": "V Komar",
+        "email": "komar@ma.com",
+        "disease": "Infectious mononucleosis"
+    },
+    {
+        "_id": 9,
+        "name": "M Sami",
+        "email": "sami@ma.com",
+        "disease": "Influenza"
+    },
+    {
+        "_id": 10,
+        "name": "J Vomra",
+        "email": "vomra@ma.com",
+        "disease": "Influenza (flu)"
+    },
+    {
+        "_id": 11,
+        "name": "M Shiraj",
+        "email": "shiraj@ma.com",
+        "disease": "Lyme disease"
+    }
+]
